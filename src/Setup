@@ -3,4 +3,4 @@ Install Pydev
 Install Selenium
 Install html-testRunner for report generation
 Install Chrome Broswer or Chromium
-execute AdNabuQA_Aithem_Muddhu_Krishna\src\AdNabuQA_Search_and_AddToCart\AdNabuQA.py file
+In GitHub go  inside src\AdNabuQA_Search_and_AddToCart and run AdNabuQA.py or execute AdNabuQA_Aithem_Muddhu_Krishna\src\AdNabuQA_Search_and_AddToCart\AdNabuQA.py file
